@@ -1,0 +1,16 @@
+torch
+torch-geometric
+neo4j
+python-dotenv
+pandas
+numpy
+scikit-learn
+matplotlib
+mlflow
+fastapi
+uvicorn
+pytest
+prometheus-client
+packaging
+streamlit
+plotly

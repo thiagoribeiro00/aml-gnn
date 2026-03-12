@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/0d3061000fbc47489f4b70936035444a/artifacts
+end_time: 1773328523072
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 0d3061000fbc47489f4b70936035444a
+run_name: adaptable-zebra-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773328302976
+status: 3
+tags: []
+user_id: thiago

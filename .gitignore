@@ -1,0 +1,39 @@
+# Environment
+.env
+venv/
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Models
+models/*.pt
+models/*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

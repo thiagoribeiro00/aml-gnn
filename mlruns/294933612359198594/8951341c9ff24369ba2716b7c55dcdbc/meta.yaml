@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/8951341c9ff24369ba2716b7c55dcdbc/artifacts
+end_time: 1772045632927
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 8951341c9ff24369ba2716b7c55dcdbc
+run_name: monumental-ant-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772045507020
+status: 3
+tags: []
+user_id: thiago

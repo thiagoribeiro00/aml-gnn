@@ -1,0 +1,16 @@
+creation_timestamp: 1772045632280
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1772045632280
+model_id: m-4e82721a28ef4c4f96242e0619c72e1f
+name: AML_GNN_SAGE_Model
+run_id: 8951341c9ff24369ba2716b7c55dcdbc
+run_link: null
+source: models:/m-4e82721a28ef4c4f96242e0619c72e1f
+status: READY
+status_message: null
+storage_location: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/models/m-4e82721a28ef4c4f96242e0619c72e1f/artifacts
+user_id: null
+version: 1
+workspace: default

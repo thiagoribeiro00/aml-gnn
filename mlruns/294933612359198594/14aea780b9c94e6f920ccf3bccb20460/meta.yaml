@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/14aea780b9c94e6f920ccf3bccb20460/artifacts
+end_time: 1773328066642
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 14aea780b9c94e6f920ccf3bccb20460
+run_name: judicious-mink-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773327847748
+status: 3
+tags: []
+user_id: thiago

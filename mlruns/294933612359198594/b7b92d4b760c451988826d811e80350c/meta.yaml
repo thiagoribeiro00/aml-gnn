@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/b7b92d4b760c451988826d811e80350c/artifacts
+end_time: 1772046355255
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: b7b92d4b760c451988826d811e80350c
+run_name: gifted-hen-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772046231383
+status: 3
+tags: []
+user_id: thiago
