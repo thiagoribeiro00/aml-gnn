@@ -4,11 +4,11 @@ A robust, production-ready system for detecting illicit financial transactions u
 
 ---
 
-## 🚀 Technical Overview
+## Technical Overview
 
 This project implements a node classification approach on transaction graphs to identify money laundering patterns. Unlike traditional machine learning that treats transactions as independent events, GNNs capture the relational context—essential for detecting complex laundering schemes like layering and smurfing.
 
-### 🧠 Algorithm selection & Rationale
+### Algorithm selection & Rationale
 
 We implement two state-of-the-art GNN architectures:
 
@@ -22,7 +22,7 @@ We implement two state-of-the-art GNN architectures:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The project strictly follows **Clean Architecture** to ensure maintainability and testability:
 
@@ -35,7 +35,7 @@ The project strictly follows **Clean Architecture** to ensure maintainability an
 
 ---
 
-## 🛠️ Data Pipeline & Implementation
+## Data Pipeline & Implementation
 
 1.  **Ingestion**: Data is fetched from **Neo4j AuraDB**, representing the transaction network where nodes are transactions and edges are the flow of funds.
 2.  **Feature Engineering**:
@@ -49,7 +49,7 @@ The project strictly follows **Clean Architecture** to ensure maintainability an
 
 ---
 
-## 🚦 How to Run
+## How to Run
 
 ### 1. Prerequisites
 - Python 3.9+
@@ -91,7 +91,7 @@ make gui
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── data/               # Local data storage (raw, interim, processed)
