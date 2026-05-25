@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/191f8e2d8d8e4de4bb59cc34ed3700c7/artifacts
+end_time: 1774547339241
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 191f8e2d8d8e4de4bb59cc34ed3700c7
+run_name: powerful-ant-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774547086851
+status: 3
+tags: []
+user_id: thiago

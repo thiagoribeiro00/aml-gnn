@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/169117475962085487/6b971dfa46014aa5be6215079ae64c7d/artifacts
+end_time: 1774558494935
+entry_point_name: ''
+experiment_id: '169117475962085487'
+lifecycle_stage: active
+run_id: 6b971dfa46014aa5be6215079ae64c7d
+run_name: intrigued-elk-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774558189946
+status: 3
+tags: []
+user_id: thiago

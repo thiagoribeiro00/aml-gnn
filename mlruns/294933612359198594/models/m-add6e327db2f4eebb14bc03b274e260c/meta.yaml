@@ -1,0 +1,10 @@
+artifact_location: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/models/m-add6e327db2f4eebb14bc03b274e260c/artifacts
+creation_timestamp: 1774550770135
+experiment_id: '294933612359198594'
+last_updated_timestamp: 1774550969538
+model_id: m-add6e327db2f4eebb14bc03b274e260c
+model_type: null
+name: model
+source_run_id: a7f3ba59d93a45ad9f95c8fa69f39776
+status: 2
+status_message: null

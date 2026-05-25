@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/6f9cdc12700047759c851581257db819/artifacts
+end_time: 1774542840848
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 6f9cdc12700047759c851581257db819
+run_name: skillful-cat-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774542600464
+status: 3
+tags: []
+user_id: thiago

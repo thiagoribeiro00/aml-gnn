@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/b8e1f22546394e51a59348a1f7b915d7/artifacts
+end_time: 1774548984761
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: b8e1f22546394e51a59348a1f7b915d7
+run_name: secretive-seal-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774548735520
+status: 3
+tags: []
+user_id: thiago

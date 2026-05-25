@@ -1,0 +1,16 @@
+creation_timestamp: 1774550970406
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1774550970406
+model_id: m-add6e327db2f4eebb14bc03b274e260c
+name: AML_GNN_GAT_Model
+run_id: a7f3ba59d93a45ad9f95c8fa69f39776
+run_link: null
+source: models:/m-add6e327db2f4eebb14bc03b274e260c
+status: READY
+status_message: null
+storage_location: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/models/m-add6e327db2f4eebb14bc03b274e260c/artifacts
+user_id: null
+version: 1
+workspace: default

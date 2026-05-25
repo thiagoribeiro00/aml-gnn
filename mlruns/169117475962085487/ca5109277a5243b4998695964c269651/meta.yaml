@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/169117475962085487/ca5109277a5243b4998695964c269651/artifacts
+end_time: 1774559067355
+entry_point_name: ''
+experiment_id: '169117475962085487'
+lifecycle_stage: active
+run_id: ca5109277a5243b4998695964c269651
+run_name: crawling-shark-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774558755407
+status: 3
+tags: []
+user_id: thiago

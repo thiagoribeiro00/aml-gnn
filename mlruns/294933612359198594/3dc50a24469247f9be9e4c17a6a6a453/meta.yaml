@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/3dc50a24469247f9be9e4c17a6a6a453/artifacts
+end_time: 1774543178141
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: 3dc50a24469247f9be9e4c17a6a6a453
+run_name: rumbling-carp-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774542953596
+status: 3
+tags: []
+user_id: thiago

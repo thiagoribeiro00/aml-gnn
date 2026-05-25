@@ -1,0 +1,23 @@
+artifact_path: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/models/m-add6e327db2f4eebb14bc03b274e260c/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0+cu128
+mlflow_version: 3.10.0
+model_id: m-add6e327db2f4eebb14bc03b274e260c
+model_size_bytes: 373005
+model_uuid: m-add6e327db2f4eebb14bc03b274e260c
+prompts: null
+run_id: a7f3ba59d93a45ad9f95c8fa69f39776
+utc_time_created: '2026-03-26 18:46:12.525039'

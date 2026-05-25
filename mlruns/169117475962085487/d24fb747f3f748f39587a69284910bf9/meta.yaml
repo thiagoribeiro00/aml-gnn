@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/169117475962085487/d24fb747f3f748f39587a69284910bf9/artifacts
+end_time: 1774557855744
+entry_point_name: ''
+experiment_id: '169117475962085487'
+lifecycle_stage: active
+run_id: d24fb747f3f748f39587a69284910bf9
+run_name: casual-hound-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774557806613
+status: 3
+tags: []
+user_id: thiago

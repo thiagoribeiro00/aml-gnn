@@ -1,0 +1,14 @@
+artifact_uri: /mnt/c/Users/Thiago/Documents/code/aml-gnn/mlruns/294933612359198594/a7f3ba59d93a45ad9f95c8fa69f39776/artifacts
+end_time: 1774550971754
+entry_point_name: ''
+experiment_id: '294933612359198594'
+lifecycle_stage: active
+run_id: a7f3ba59d93a45ad9f95c8fa69f39776
+run_name: smiling-bass-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774550666595
+status: 3
+tags: []
+user_id: thiago
